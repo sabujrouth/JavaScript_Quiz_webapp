@@ -46,10 +46,10 @@ button {
 #container {
     width: 50%;
     margin: auto;
-    padding: 0 25px 40px 10px;
-    background-color: #1E90FF;
-    border: 4px solid #B0E0E6;
-    border-radius: 5px;
+    padding: 0 10px 40px 10px;
+    background-color: #ae0662;
+    border: 4px solid #9a98a7;
+    border-radius: 10px;
     color: #FFFFFF;
     font-weight: bold;
     box-shadow: 5px 5px 5px #888;
@@ -67,5 +67,5 @@ ul {
 
 #start {
     display: none;
-    width: 90px;
+    /* width: 90px; */
 }
